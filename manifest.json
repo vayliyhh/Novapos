@@ -1,0 +1,10 @@
+{
+  "name": "NovaPOS",
+  "short_name": "NovaPOS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#2166f3",
+  "lang": "pl",
+  "icons": []
+}
