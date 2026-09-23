@@ -1,14 +1,7 @@
-NovaPOS PWA
-===========
-Uruchomienie:
-1. Umieść wszystkie pliki na hostingu obsługującym HTTPS.
-2. Otwórz adres w Safari na iPadzie.
-3. Udostępnij -> Dodaj do ekranu początkowego.
-4. Uruchom ikonę NovaPOS.
-
-Testowe PIN-y:
-Kasjer 1234
-Kierownik 2468
-Administrator 9999
-
-To jest wersja demonstracyjna. Prawdziwe płatności, fiskalizacja i synchronizacja wymagają integracji z wybranymi dostawcami.
+NovaPOS 3.0 — aktualizacja
+Wgraj index.html, manifest.json i sw.js do głównego katalogu repozytorium GitHub Pages.
+Po publikacji otwórz stronę online i odśwież. Service Worker v3 usuwa stare cache NovaPOS.
+Aby zobaczyć wszystkie moduły, zaloguj się jako Administrator PIN 9999.
+Kasjer 1234: sprzedaż/zamówienia
+Kierownik 2468: sprzedaż, zamówienia, produkty, magazyn, raporty, stoliki, klienci, wydatki
+Administrator 9999: wszystkie moduły.
